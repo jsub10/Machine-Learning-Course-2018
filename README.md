@@ -6,10 +6,12 @@ Here you'll find the latest versions of materials for the course.
 
 The LectureNotes folder contains lecture notes that have been covered in the course.
 
-The Notebooks folder contains Jupyter Notebooks that cover the course topics. You can download these and try them out if you'd like to. (See the instructions for installing Anaconda in Canvas.)
+The Notebooks folder contains Jupyter Notebooks that cover the course topics. You can download these and try them out if you'd like to. (See the instructions for installing Anaconda in the OtherMaterials folder.)
 
-The Data folder contains all the datasets you'll need for this course (and more).
+The DataSets folder contains all the datasets you'll need for this course (and more).
 
 The OrangeFiles folder contains Orange files from our sessions and worked homework assignments.
+
+The OtherMaterials folder contains the course syllabus, instructions for installing the Anaconda platform (this is optional) and some miscellaneous materials.
 
 All files will be will be updated as we progress through the course sessions.
