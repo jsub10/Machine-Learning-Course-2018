@@ -1,0 +1,306 @@
+age,gender,chest pain,rest SBP,cholesterol,fasting blood sugar > 120,rest ECG,max HR,exerc ind ang,ST by exercise,slope peak exc ST,major vessels colored,thal,diameter narrowing
+continuous,discrete,discrete,continuous,continuous,discrete,normal left\ vent\ hypertrophy ST-T\ abnormal,continuous,0 1,continuous,upsloping flat downsloping,continuous,normal reversable\ defect fixed\ defect,discrete
+,,,,,,,,,,,,,class
+63.0,male,typical ang,145.0,233.0,1,left vent hypertrophy,150.0,0,2.3,downsloping,0.0,fixed defect,0
+67.0,male,asymptomatic,160.0,286.0,0,left vent hypertrophy,108.0,1,1.5,flat,3.0,normal,1
+67.0,male,asymptomatic,120.0,229.0,0,left vent hypertrophy,129.0,1,2.6,flat,2.0,reversable defect,1
+37.0,male,non-anginal,130.0,250.0,0,normal,187.0,0,3.5,downsloping,0.0,normal,0
+41.0,female,atypical ang,130.0,204.0,0,left vent hypertrophy,172.0,0,1.4,upsloping,0.0,normal,0
+56.0,male,atypical ang,120.0,236.0,0,normal,178.0,0,0.8,upsloping,0.0,normal,0
+62.0,female,asymptomatic,140.0,268.0,0,left vent hypertrophy,160.0,0,3.6,downsloping,2.0,normal,1
+57.0,female,asymptomatic,120.0,354.0,0,normal,163.0,1,0.6,upsloping,0.0,normal,0
+63.0,male,asymptomatic,130.0,254.0,0,left vent hypertrophy,147.0,0,1.4,flat,1.0,reversable defect,1
+53.0,male,asymptomatic,140.0,203.0,1,left vent hypertrophy,155.0,1,3.1,downsloping,0.0,reversable defect,1
+57.0,male,asymptomatic,140.0,192.0,0,normal,148.0,0,0.4,flat,0.0,fixed defect,0
+56.0,female,atypical ang,140.0,294.0,0,left vent hypertrophy,153.0,0,1.3,flat,0.0,normal,0
+56.0,male,non-anginal,130.0,256.0,1,left vent hypertrophy,142.0,1,0.6,flat,1.0,fixed defect,1
+44.0,male,atypical ang,120.0,263.0,0,normal,173.0,0,0.0,upsloping,0.0,reversable defect,0
+52.0,male,non-anginal,172.0,199.0,1,normal,162.0,0,0.5,upsloping,0.0,reversable defect,0
+57.0,male,non-anginal,150.0,168.0,0,normal,174.0,0,1.6,upsloping,0.0,normal,0
+48.0,male,atypical ang,110.0,229.0,0,normal,168.0,0,1.0,downsloping,0.0,reversable defect,1
+54.0,male,asymptomatic,140.0,239.0,0,normal,160.0,0,1.2,upsloping,0.0,normal,0
+48.0,female,non-anginal,130.0,275.0,0,normal,139.0,0,0.2,upsloping,0.0,normal,0
+49.0,male,atypical ang,130.0,266.0,0,normal,171.0,0,0.6,upsloping,0.0,normal,0
+64.0,male,typical ang,110.0,211.0,0,left vent hypertrophy,144.0,1,1.8,flat,0.0,normal,0
+58.0,female,typical ang,150.0,283.0,1,left vent hypertrophy,162.0,0,1.0,upsloping,0.0,normal,0
+58.0,male,atypical ang,120.0,284.0,0,left vent hypertrophy,160.0,0,1.8,flat,0.0,normal,1
+58.0,male,non-anginal,132.0,224.0,0,left vent hypertrophy,173.0,0,3.2,upsloping,2.0,reversable defect,1
+60.0,male,asymptomatic,130.0,206.0,0,left vent hypertrophy,132.0,1,2.4,flat,2.0,reversable defect,1
+50.0,female,non-anginal,120.0,219.0,0,normal,158.0,0,1.6,flat,0.0,normal,0
+58.0,female,non-anginal,120.0,340.0,0,normal,172.0,0,0.0,upsloping,0.0,normal,0
+66.0,female,typical ang,150.0,226.0,0,normal,114.0,0,2.6,downsloping,0.0,normal,0
+43.0,male,asymptomatic,150.0,247.0,0,normal,171.0,0,1.5,upsloping,0.0,normal,0
+40.0,male,asymptomatic,110.0,167.0,0,left vent hypertrophy,114.0,1,2.0,flat,0.0,reversable defect,1
+69.0,female,typical ang,140.0,239.0,0,normal,151.0,0,1.8,upsloping,2.0,normal,0
+60.0,male,asymptomatic,117.0,230.0,1,normal,160.0,1,1.4,upsloping,2.0,reversable defect,1
+64.0,male,non-anginal,140.0,335.0,0,normal,158.0,0,0.0,upsloping,0.0,normal,1
+59.0,male,asymptomatic,135.0,234.0,0,normal,161.0,0,0.5,flat,0.0,reversable defect,0
+44.0,male,non-anginal,130.0,233.0,0,normal,179.0,1,0.4,upsloping,0.0,normal,0
+42.0,male,asymptomatic,140.0,226.0,0,normal,178.0,0,0.0,upsloping,0.0,normal,0
+43.0,male,asymptomatic,120.0,177.0,0,left vent hypertrophy,120.0,1,2.5,flat,0.0,reversable defect,1
+57.0,male,asymptomatic,150.0,276.0,0,left vent hypertrophy,112.0,1,0.6,flat,1.0,fixed defect,1
+55.0,male,asymptomatic,132.0,353.0,0,normal,132.0,1,1.2,flat,1.0,reversable defect,1
+61.0,male,non-anginal,150.0,243.0,1,normal,137.0,1,1.0,flat,0.0,normal,0
+65.0,female,asymptomatic,150.0,225.0,0,left vent hypertrophy,114.0,0,1.0,flat,3.0,reversable defect,1
+40.0,male,typical ang,140.0,199.0,0,normal,178.0,1,1.4,upsloping,0.0,reversable defect,0
+71.0,female,atypical ang,160.0,302.0,0,normal,162.0,0,0.4,upsloping,2.0,normal,0
+59.0,male,non-anginal,150.0,212.0,1,normal,157.0,0,1.6,upsloping,0.0,normal,0
+61.0,female,asymptomatic,130.0,330.0,0,left vent hypertrophy,169.0,0,0.0,upsloping,0.0,normal,1
+58.0,male,non-anginal,112.0,230.0,0,left vent hypertrophy,165.0,0,2.5,flat,1.0,reversable defect,1
+51.0,male,non-anginal,110.0,175.0,0,normal,123.0,0,0.6,upsloping,0.0,normal,0
+50.0,male,asymptomatic,150.0,243.0,0,left vent hypertrophy,128.0,0,2.6,flat,0.0,reversable defect,1
+65.0,female,non-anginal,140.0,417.0,1,left vent hypertrophy,157.0,0,0.8,upsloping,1.0,normal,0
+53.0,male,non-anginal,130.0,197.0,1,left vent hypertrophy,152.0,0,1.2,downsloping,0.0,normal,0
+41.0,female,atypical ang,105.0,198.0,0,normal,168.0,0,0.0,upsloping,1.0,normal,0
+65.0,male,asymptomatic,120.0,177.0,0,normal,140.0,0,0.4,upsloping,0.0,reversable defect,0
+44.0,male,asymptomatic,112.0,290.0,0,left vent hypertrophy,153.0,0,0.0,upsloping,1.0,normal,1
+44.0,male,atypical ang,130.0,219.0,0,left vent hypertrophy,188.0,0,0.0,upsloping,0.0,normal,0
+60.0,male,asymptomatic,130.0,253.0,0,normal,144.0,1,1.4,upsloping,1.0,reversable defect,1
+54.0,male,asymptomatic,124.0,266.0,0,left vent hypertrophy,109.0,1,2.2,flat,1.0,reversable defect,1
+50.0,male,non-anginal,140.0,233.0,0,normal,163.0,0,0.6,flat,1.0,reversable defect,1
+41.0,male,asymptomatic,110.0,172.0,0,left vent hypertrophy,158.0,0,0.0,upsloping,0.0,reversable defect,1
+54.0,male,non-anginal,125.0,273.0,0,left vent hypertrophy,152.0,0,0.5,downsloping,1.0,normal,0
+51.0,male,typical ang,125.0,213.0,0,left vent hypertrophy,125.0,1,1.4,upsloping,1.0,normal,0
+51.0,female,asymptomatic,130.0,305.0,0,normal,142.0,1,1.2,flat,0.0,reversable defect,1
+46.0,female,non-anginal,142.0,177.0,0,left vent hypertrophy,160.0,1,1.4,downsloping,0.0,normal,0
+58.0,male,asymptomatic,128.0,216.0,0,left vent hypertrophy,131.0,1,2.2,flat,3.0,reversable defect,1
+54.0,female,non-anginal,135.0,304.0,1,normal,170.0,0,0.0,upsloping,0.0,normal,0
+54.0,male,asymptomatic,120.0,188.0,0,normal,113.0,0,1.4,flat,1.0,reversable defect,1
+60.0,male,asymptomatic,145.0,282.0,0,left vent hypertrophy,142.0,1,2.8,flat,2.0,reversable defect,1
+60.0,male,non-anginal,140.0,185.0,0,left vent hypertrophy,155.0,0,3.0,flat,0.0,normal,1
+54.0,male,non-anginal,150.0,232.0,0,left vent hypertrophy,165.0,0,1.6,upsloping,0.0,reversable defect,0
+59.0,male,asymptomatic,170.0,326.0,0,left vent hypertrophy,140.0,1,3.4,downsloping,0.0,reversable defect,1
+46.0,male,non-anginal,150.0,231.0,0,normal,147.0,0,3.6,flat,0.0,normal,1
+65.0,female,non-anginal,155.0,269.0,0,normal,148.0,0,0.8,upsloping,0.0,normal,0
+67.0,male,asymptomatic,125.0,254.0,1,normal,163.0,0,0.2,flat,2.0,reversable defect,1
+62.0,male,asymptomatic,120.0,267.0,0,normal,99.0,1,1.8,flat,2.0,reversable defect,1
+65.0,male,asymptomatic,110.0,248.0,0,left vent hypertrophy,158.0,0,0.6,upsloping,2.0,fixed defect,1
+44.0,male,asymptomatic,110.0,197.0,0,left vent hypertrophy,177.0,0,0.0,upsloping,1.0,normal,1
+65.0,female,non-anginal,160.0,360.0,0,left vent hypertrophy,151.0,0,0.8,upsloping,0.0,normal,0
+60.0,male,asymptomatic,125.0,258.0,0,left vent hypertrophy,141.0,1,2.8,flat,1.0,reversable defect,1
+51.0,female,non-anginal,140.0,308.0,0,left vent hypertrophy,142.0,0,1.5,upsloping,1.0,normal,0
+48.0,male,atypical ang,130.0,245.0,0,left vent hypertrophy,180.0,0,0.2,flat,0.0,normal,0
+58.0,male,asymptomatic,150.0,270.0,0,left vent hypertrophy,111.0,1,0.8,upsloping,0.0,reversable defect,1
+45.0,male,asymptomatic,104.0,208.0,0,left vent hypertrophy,148.0,1,3.0,flat,0.0,normal,0
+53.0,female,asymptomatic,130.0,264.0,0,left vent hypertrophy,143.0,0,0.4,flat,0.0,normal,0
+39.0,male,non-anginal,140.0,321.0,0,left vent hypertrophy,182.0,0,0.0,upsloping,0.0,normal,0
+68.0,male,non-anginal,180.0,274.0,1,left vent hypertrophy,150.0,1,1.6,flat,0.0,reversable defect,1
+52.0,male,atypical ang,120.0,325.0,0,normal,172.0,0,0.2,upsloping,0.0,normal,0
+44.0,male,non-anginal,140.0,235.0,0,left vent hypertrophy,180.0,0,0.0,upsloping,0.0,normal,0
+47.0,male,non-anginal,138.0,257.0,0,left vent hypertrophy,156.0,0,0.0,upsloping,0.0,normal,0
+53.0,female,non-anginal,128.0,216.0,0,left vent hypertrophy,115.0,0,0.0,upsloping,0.0,,0
+53.0,female,asymptomatic,138.0,234.0,0,left vent hypertrophy,160.0,0,0.0,upsloping,0.0,normal,0
+51.0,female,non-anginal,130.0,256.0,0,left vent hypertrophy,149.0,0,0.5,upsloping,0.0,normal,0
+66.0,male,asymptomatic,120.0,302.0,0,left vent hypertrophy,151.0,0,0.4,flat,0.0,normal,0
+62.0,female,asymptomatic,160.0,164.0,0,left vent hypertrophy,145.0,0,6.2,downsloping,3.0,reversable defect,1
+62.0,male,non-anginal,130.0,231.0,0,normal,146.0,0,1.8,flat,3.0,reversable defect,0
+44.0,female,non-anginal,108.0,141.0,0,normal,175.0,0,0.6,flat,0.0,normal,0
+63.0,female,non-anginal,135.0,252.0,0,left vent hypertrophy,172.0,0,0.0,upsloping,0.0,normal,0
+52.0,male,asymptomatic,128.0,255.0,0,normal,161.0,1,0.0,upsloping,1.0,reversable defect,1
+59.0,male,asymptomatic,110.0,239.0,0,left vent hypertrophy,142.0,1,1.2,flat,1.0,reversable defect,1
+60.0,female,asymptomatic,150.0,258.0,0,left vent hypertrophy,157.0,0,2.6,flat,2.0,reversable defect,1
+52.0,male,atypical ang,134.0,201.0,0,normal,158.0,0,0.8,upsloping,1.0,normal,0
+48.0,male,asymptomatic,122.0,222.0,0,left vent hypertrophy,186.0,0,0.0,upsloping,0.0,normal,0
+45.0,male,asymptomatic,115.0,260.0,0,left vent hypertrophy,185.0,0,0.0,upsloping,0.0,normal,0
+34.0,male,typical ang,118.0,182.0,0,left vent hypertrophy,174.0,0,0.0,upsloping,0.0,normal,0
+57.0,female,asymptomatic,128.0,303.0,0,left vent hypertrophy,159.0,0,0.0,upsloping,1.0,normal,0
+71.0,female,non-anginal,110.0,265.0,1,left vent hypertrophy,130.0,0,0.0,upsloping,1.0,normal,0
+49.0,male,non-anginal,120.0,188.0,0,normal,139.0,0,2.0,flat,3.0,reversable defect,1
+54.0,male,atypical ang,108.0,309.0,0,normal,156.0,0,0.0,upsloping,0.0,reversable defect,0
+59.0,male,asymptomatic,140.0,177.0,0,normal,162.0,1,0.0,upsloping,1.0,reversable defect,1
+57.0,male,non-anginal,128.0,229.0,0,left vent hypertrophy,150.0,0,0.4,flat,1.0,reversable defect,1
+61.0,male,asymptomatic,120.0,260.0,0,normal,140.0,1,3.6,flat,1.0,reversable defect,1
+39.0,male,asymptomatic,118.0,219.0,0,normal,140.0,0,1.2,flat,0.0,reversable defect,1
+61.0,female,asymptomatic,145.0,307.0,0,left vent hypertrophy,146.0,1,1.0,flat,0.0,reversable defect,1
+56.0,male,asymptomatic,125.0,249.0,1,left vent hypertrophy,144.0,1,1.2,flat,1.0,normal,1
+52.0,male,typical ang,118.0,186.0,0,left vent hypertrophy,190.0,0,0.0,flat,0.0,fixed defect,0
+43.0,female,asymptomatic,132.0,341.0,1,left vent hypertrophy,136.0,1,3.0,flat,0.0,reversable defect,1
+62.0,female,non-anginal,130.0,263.0,0,normal,97.0,0,1.2,flat,1.0,reversable defect,1
+41.0,male,atypical ang,135.0,203.0,0,normal,132.0,0,0.0,flat,0.0,fixed defect,0
+58.0,male,non-anginal,140.0,211.0,1,left vent hypertrophy,165.0,0,0.0,upsloping,0.0,normal,0
+35.0,female,asymptomatic,138.0,183.0,0,normal,182.0,0,1.4,upsloping,0.0,normal,0
+63.0,male,asymptomatic,130.0,330.0,1,left vent hypertrophy,132.0,1,1.8,upsloping,3.0,reversable defect,1
+65.0,male,asymptomatic,135.0,254.0,0,left vent hypertrophy,127.0,0,2.8,flat,1.0,reversable defect,1
+48.0,male,asymptomatic,130.0,256.0,1,left vent hypertrophy,150.0,1,0.0,upsloping,2.0,reversable defect,1
+63.0,female,asymptomatic,150.0,407.0,0,left vent hypertrophy,154.0,0,4.0,flat,3.0,reversable defect,1
+51.0,male,non-anginal,100.0,222.0,0,normal,143.0,1,1.2,flat,0.0,normal,0
+55.0,male,asymptomatic,140.0,217.0,0,normal,111.0,1,5.6,downsloping,0.0,reversable defect,1
+65.0,male,typical ang,138.0,282.0,1,left vent hypertrophy,174.0,0,1.4,flat,1.0,normal,1
+45.0,female,atypical ang,130.0,234.0,0,left vent hypertrophy,175.0,0,0.6,flat,0.0,normal,0
+56.0,female,asymptomatic,200.0,288.0,1,left vent hypertrophy,133.0,1,4.0,downsloping,2.0,reversable defect,1
+54.0,male,asymptomatic,110.0,239.0,0,normal,126.0,1,2.8,flat,1.0,reversable defect,1
+44.0,male,atypical ang,120.0,220.0,0,normal,170.0,0,0.0,upsloping,0.0,normal,0
+62.0,female,asymptomatic,124.0,209.0,0,normal,163.0,0,0.0,upsloping,0.0,normal,0
+54.0,male,non-anginal,120.0,258.0,0,left vent hypertrophy,147.0,0,0.4,flat,0.0,reversable defect,0
+51.0,male,non-anginal,94.0,227.0,0,normal,154.0,1,0.0,upsloping,1.0,reversable defect,0
+29.0,male,atypical ang,130.0,204.0,0,left vent hypertrophy,202.0,0,0.0,upsloping,0.0,normal,0
+51.0,male,asymptomatic,140.0,261.0,0,left vent hypertrophy,186.0,1,0.0,upsloping,0.0,normal,0
+43.0,female,non-anginal,122.0,213.0,0,normal,165.0,0,0.2,flat,0.0,normal,0
+55.0,female,atypical ang,135.0,250.0,0,left vent hypertrophy,161.0,0,1.4,flat,0.0,normal,0
+70.0,male,asymptomatic,145.0,174.0,0,normal,125.0,1,2.6,downsloping,0.0,reversable defect,1
+62.0,male,atypical ang,120.0,281.0,0,left vent hypertrophy,103.0,0,1.4,flat,1.0,reversable defect,1
+35.0,male,asymptomatic,120.0,198.0,0,normal,130.0,1,1.6,flat,0.0,reversable defect,1
+51.0,male,non-anginal,125.0,245.0,1,left vent hypertrophy,166.0,0,2.4,flat,0.0,normal,0
+59.0,male,atypical ang,140.0,221.0,0,normal,164.0,1,0.0,upsloping,0.0,normal,0
+59.0,male,typical ang,170.0,288.0,0,left vent hypertrophy,159.0,0,0.2,flat,0.0,reversable defect,1
+52.0,male,atypical ang,128.0,205.0,1,normal,184.0,0,0.0,upsloping,0.0,normal,0
+64.0,male,non-anginal,125.0,309.0,0,normal,131.0,1,1.8,flat,0.0,reversable defect,1
+58.0,male,non-anginal,105.0,240.0,0,left vent hypertrophy,154.0,1,0.6,flat,0.0,reversable defect,0
+47.0,male,non-anginal,108.0,243.0,0,normal,152.0,0,0.0,upsloping,0.0,normal,1
+57.0,male,asymptomatic,165.0,289.0,1,left vent hypertrophy,124.0,0,1.0,flat,3.0,reversable defect,1
+41.0,male,non-anginal,112.0,250.0,0,normal,179.0,0,0.0,upsloping,0.0,normal,0
+45.0,male,atypical ang,128.0,308.0,0,left vent hypertrophy,170.0,0,0.0,upsloping,0.0,normal,0
+60.0,female,non-anginal,102.0,318.0,0,normal,160.0,0,0.0,upsloping,1.0,normal,0
+52.0,male,typical ang,152.0,298.0,1,normal,178.0,0,1.2,flat,0.0,reversable defect,0
+42.0,female,asymptomatic,102.0,265.0,0,left vent hypertrophy,122.0,0,0.6,flat,0.0,normal,0
+67.0,female,non-anginal,115.0,564.0,0,left vent hypertrophy,160.0,0,1.6,flat,0.0,reversable defect,0
+55.0,male,asymptomatic,160.0,289.0,0,left vent hypertrophy,145.0,1,0.8,flat,1.0,reversable defect,1
+64.0,male,asymptomatic,120.0,246.0,0,left vent hypertrophy,96.0,1,2.2,downsloping,1.0,normal,1
+70.0,male,asymptomatic,130.0,322.0,0,left vent hypertrophy,109.0,0,2.4,flat,3.0,normal,1
+51.0,male,asymptomatic,140.0,299.0,0,normal,173.0,1,1.6,upsloping,0.0,reversable defect,1
+58.0,male,asymptomatic,125.0,300.0,0,left vent hypertrophy,171.0,0,0.0,upsloping,2.0,reversable defect,1
+60.0,male,asymptomatic,140.0,293.0,0,left vent hypertrophy,170.0,0,1.2,flat,2.0,reversable defect,1
+68.0,male,non-anginal,118.0,277.0,0,normal,151.0,0,1.0,upsloping,1.0,reversable defect,0
+46.0,male,atypical ang,101.0,197.0,1,normal,156.0,0,0.0,upsloping,0.0,reversable defect,0
+77.0,male,asymptomatic,125.0,304.0,0,left vent hypertrophy,162.0,1,0.0,upsloping,3.0,normal,1
+54.0,female,non-anginal,110.0,214.0,0,normal,158.0,0,1.6,flat,0.0,normal,0
+58.0,female,asymptomatic,100.0,248.0,0,left vent hypertrophy,122.0,0,1.0,flat,0.0,normal,0
+48.0,male,non-anginal,124.0,255.0,1,normal,175.0,0,0.0,upsloping,2.0,normal,0
+57.0,male,asymptomatic,132.0,207.0,0,normal,168.0,1,0.0,upsloping,0.0,reversable defect,0
+52.0,male,non-anginal,138.0,223.0,0,normal,169.0,0,0.0,upsloping,,normal,0
+54.0,female,atypical ang,132.0,288.0,1,left vent hypertrophy,159.0,1,0.0,upsloping,1.0,normal,0
+35.0,male,asymptomatic,126.0,282.0,0,left vent hypertrophy,156.0,1,0.0,upsloping,0.0,reversable defect,1
+45.0,female,atypical ang,112.0,160.0,0,normal,138.0,0,0.0,flat,0.0,normal,0
+70.0,male,non-anginal,160.0,269.0,0,normal,112.0,1,2.9,flat,1.0,reversable defect,1
+53.0,male,asymptomatic,142.0,226.0,0,left vent hypertrophy,111.0,1,0.0,upsloping,0.0,reversable defect,0
+59.0,female,asymptomatic,174.0,249.0,0,normal,143.0,1,0.0,flat,0.0,normal,1
+62.0,female,asymptomatic,140.0,394.0,0,left vent hypertrophy,157.0,0,1.2,flat,0.0,normal,0
+64.0,male,asymptomatic,145.0,212.0,0,left vent hypertrophy,132.0,0,2.0,flat,2.0,fixed defect,1
+57.0,male,asymptomatic,152.0,274.0,0,normal,88.0,1,1.2,flat,1.0,reversable defect,1
+52.0,male,asymptomatic,108.0,233.0,1,normal,147.0,0,0.1,upsloping,3.0,reversable defect,0
+56.0,male,asymptomatic,132.0,184.0,0,left vent hypertrophy,105.0,1,2.1,flat,1.0,fixed defect,1
+43.0,male,non-anginal,130.0,315.0,0,normal,162.0,0,1.9,upsloping,1.0,normal,0
+53.0,male,non-anginal,130.0,246.0,1,left vent hypertrophy,173.0,0,0.0,upsloping,3.0,normal,0
+48.0,male,asymptomatic,124.0,274.0,0,left vent hypertrophy,166.0,0,0.5,flat,0.0,reversable defect,1
+56.0,female,asymptomatic,134.0,409.0,0,left vent hypertrophy,150.0,1,1.9,flat,2.0,reversable defect,1
+42.0,male,typical ang,148.0,244.0,0,left vent hypertrophy,178.0,0,0.8,upsloping,2.0,normal,0
+59.0,male,typical ang,178.0,270.0,0,left vent hypertrophy,145.0,0,4.2,downsloping,0.0,reversable defect,0
+60.0,female,asymptomatic,158.0,305.0,0,left vent hypertrophy,161.0,0,0.0,upsloping,0.0,normal,1
+63.0,female,atypical ang,140.0,195.0,0,normal,179.0,0,0.0,upsloping,2.0,normal,0
+42.0,male,non-anginal,120.0,240.0,1,normal,194.0,0,0.8,downsloping,0.0,reversable defect,0
+66.0,male,atypical ang,160.0,246.0,0,normal,120.0,1,0.0,flat,3.0,fixed defect,1
+54.0,male,atypical ang,192.0,283.0,0,left vent hypertrophy,195.0,0,0.0,upsloping,1.0,reversable defect,1
+69.0,male,non-anginal,140.0,254.0,0,left vent hypertrophy,146.0,0,2.0,flat,3.0,reversable defect,1
+50.0,male,non-anginal,129.0,196.0,0,normal,163.0,0,0.0,upsloping,0.0,normal,0
+51.0,male,asymptomatic,140.0,298.0,0,normal,122.0,1,4.2,flat,3.0,reversable defect,1
+43.0,male,asymptomatic,132.0,247.0,1,left vent hypertrophy,143.0,1,0.1,flat,,reversable defect,1
+62.0,female,asymptomatic,138.0,294.0,1,normal,106.0,0,1.9,flat,3.0,normal,1
+68.0,female,non-anginal,120.0,211.0,0,left vent hypertrophy,115.0,0,1.5,flat,0.0,normal,0
+67.0,male,asymptomatic,100.0,299.0,0,left vent hypertrophy,125.0,1,0.9,flat,2.0,normal,1
+69.0,male,typical ang,160.0,234.0,1,left vent hypertrophy,131.0,0,0.1,flat,1.0,normal,0
+45.0,female,asymptomatic,138.0,236.0,0,left vent hypertrophy,152.0,1,0.2,flat,0.0,normal,0
+50.0,female,atypical ang,120.0,244.0,0,normal,162.0,0,1.1,upsloping,0.0,normal,0
+59.0,male,typical ang,160.0,273.0,0,left vent hypertrophy,125.0,0,0.0,upsloping,0.0,normal,1
+50.0,female,asymptomatic,110.0,254.0,0,left vent hypertrophy,159.0,0,0.0,upsloping,0.0,normal,0
+64.0,female,asymptomatic,180.0,325.0,0,normal,154.0,1,0.0,upsloping,0.0,normal,0
+57.0,male,non-anginal,150.0,126.0,1,normal,173.0,0,0.2,upsloping,1.0,reversable defect,0
+64.0,female,non-anginal,140.0,313.0,0,normal,133.0,0,0.2,upsloping,0.0,reversable defect,0
+43.0,male,asymptomatic,110.0,211.0,0,normal,161.0,0,0.0,upsloping,0.0,reversable defect,0
+45.0,male,asymptomatic,142.0,309.0,0,left vent hypertrophy,147.0,1,0.0,flat,3.0,reversable defect,1
+58.0,male,asymptomatic,128.0,259.0,0,left vent hypertrophy,130.0,1,3.0,flat,2.0,reversable defect,1
+50.0,male,asymptomatic,144.0,200.0,0,left vent hypertrophy,126.0,1,0.9,flat,0.0,reversable defect,1
+55.0,male,atypical ang,130.0,262.0,0,normal,155.0,0,0.0,upsloping,0.0,normal,0
+62.0,female,asymptomatic,150.0,244.0,0,normal,154.0,1,1.4,flat,0.0,normal,1
+37.0,female,non-anginal,120.0,215.0,0,normal,170.0,0,0.0,upsloping,0.0,normal,0
+38.0,male,typical ang,120.0,231.0,0,normal,182.0,1,3.8,flat,0.0,reversable defect,1
+41.0,male,non-anginal,130.0,214.0,0,left vent hypertrophy,168.0,0,2.0,flat,0.0,normal,0
+66.0,female,asymptomatic,178.0,228.0,1,normal,165.0,1,1.0,flat,2.0,reversable defect,1
+52.0,male,asymptomatic,112.0,230.0,0,normal,160.0,0,0.0,upsloping,1.0,normal,1
+56.0,male,typical ang,120.0,193.0,0,left vent hypertrophy,162.0,0,1.9,flat,0.0,reversable defect,0
+46.0,female,atypical ang,105.0,204.0,0,normal,172.0,0,0.0,upsloping,0.0,normal,0
+46.0,female,asymptomatic,138.0,243.0,0,left vent hypertrophy,152.0,1,0.0,flat,0.0,normal,0
+64.0,female,asymptomatic,130.0,303.0,0,normal,122.0,0,2.0,flat,2.0,normal,0
+59.0,male,asymptomatic,138.0,271.0,0,left vent hypertrophy,182.0,0,0.0,upsloping,0.0,normal,0
+41.0,female,non-anginal,112.0,268.0,0,left vent hypertrophy,172.0,1,0.0,upsloping,0.0,normal,0
+54.0,female,non-anginal,108.0,267.0,0,left vent hypertrophy,167.0,0,0.0,upsloping,0.0,normal,0
+39.0,female,non-anginal,94.0,199.0,0,normal,179.0,0,0.0,upsloping,0.0,normal,0
+53.0,male,asymptomatic,123.0,282.0,0,normal,95.0,1,2.0,flat,2.0,reversable defect,1
+63.0,female,asymptomatic,108.0,269.0,0,normal,169.0,1,1.8,flat,2.0,normal,1
+34.0,female,atypical ang,118.0,210.0,0,normal,192.0,0,0.7,upsloping,0.0,normal,0
+47.0,male,asymptomatic,112.0,204.0,0,normal,143.0,0,0.1,upsloping,0.0,normal,0
+67.0,female,non-anginal,152.0,277.0,0,normal,172.0,0,0.0,upsloping,1.0,normal,0
+54.0,male,asymptomatic,110.0,206.0,0,left vent hypertrophy,108.0,1,0.0,flat,1.0,normal,1
+66.0,male,asymptomatic,112.0,212.0,0,left vent hypertrophy,132.0,1,0.1,upsloping,1.0,normal,1
+52.0,female,non-anginal,136.0,196.0,0,left vent hypertrophy,169.0,0,0.1,flat,0.0,normal,0
+55.0,female,asymptomatic,180.0,327.0,0,ST-T abnormal,117.0,1,3.4,flat,0.0,normal,1
+49.0,male,non-anginal,118.0,149.0,0,left vent hypertrophy,126.0,0,0.8,upsloping,3.0,normal,1
+74.0,female,atypical ang,120.0,269.0,0,left vent hypertrophy,121.0,1,0.2,upsloping,1.0,normal,0
+54.0,female,non-anginal,160.0,201.0,0,normal,163.0,0,0.0,upsloping,1.0,normal,0
+54.0,male,asymptomatic,122.0,286.0,0,left vent hypertrophy,116.0,1,3.2,flat,2.0,normal,1
+56.0,male,asymptomatic,130.0,283.0,1,left vent hypertrophy,103.0,1,1.6,downsloping,0.0,reversable defect,1
+46.0,male,asymptomatic,120.0,249.0,0,left vent hypertrophy,144.0,0,0.8,upsloping,0.0,reversable defect,1
+49.0,female,atypical ang,134.0,271.0,0,normal,162.0,0,0.0,flat,0.0,normal,0
+42.0,male,atypical ang,120.0,295.0,0,normal,162.0,0,0.0,upsloping,0.0,normal,0
+41.0,male,atypical ang,110.0,235.0,0,normal,153.0,0,0.0,upsloping,0.0,normal,0
+41.0,female,atypical ang,126.0,306.0,0,normal,163.0,0,0.0,upsloping,0.0,normal,0
+49.0,female,asymptomatic,130.0,269.0,0,normal,163.0,0,0.0,upsloping,0.0,normal,0
+61.0,male,typical ang,134.0,234.0,0,normal,145.0,0,2.6,flat,2.0,normal,1
+60.0,female,non-anginal,120.0,178.0,1,normal,96.0,0,0.0,upsloping,0.0,normal,0
+67.0,male,asymptomatic,120.0,237.0,0,normal,71.0,0,1.0,flat,0.0,normal,1
+58.0,male,asymptomatic,100.0,234.0,0,normal,156.0,0,0.1,upsloping,1.0,reversable defect,1
+47.0,male,asymptomatic,110.0,275.0,0,left vent hypertrophy,118.0,1,1.0,flat,1.0,normal,1
+52.0,male,asymptomatic,125.0,212.0,0,normal,168.0,0,1.0,upsloping,2.0,reversable defect,1
+62.0,male,atypical ang,128.0,208.0,1,left vent hypertrophy,140.0,0,0.0,upsloping,0.0,normal,0
+57.0,male,asymptomatic,110.0,201.0,0,normal,126.0,1,1.5,flat,0.0,fixed defect,0
+58.0,male,asymptomatic,146.0,218.0,0,normal,105.0,0,2.0,flat,1.0,reversable defect,1
+64.0,male,asymptomatic,128.0,263.0,0,normal,105.0,1,0.2,flat,1.0,reversable defect,0
+51.0,female,non-anginal,120.0,295.0,0,left vent hypertrophy,157.0,0,0.6,upsloping,0.0,normal,0
+43.0,male,asymptomatic,115.0,303.0,0,normal,181.0,0,1.2,flat,0.0,normal,0
+42.0,female,non-anginal,120.0,209.0,0,normal,173.0,0,0.0,flat,0.0,normal,0
+67.0,female,asymptomatic,106.0,223.0,0,normal,142.0,0,0.3,upsloping,2.0,normal,0
+76.0,female,non-anginal,140.0,197.0,0,ST-T abnormal,116.0,0,1.1,flat,0.0,normal,0
+70.0,male,atypical ang,156.0,245.0,0,left vent hypertrophy,143.0,0,0.0,upsloping,0.0,normal,0
+57.0,male,atypical ang,124.0,261.0,0,normal,141.0,0,0.3,upsloping,0.0,reversable defect,1
+44.0,female,non-anginal,118.0,242.0,0,normal,149.0,0,0.3,flat,1.0,normal,0
+58.0,female,atypical ang,136.0,319.0,1,left vent hypertrophy,152.0,0,0.0,upsloping,2.0,normal,1
+60.0,female,typical ang,150.0,240.0,0,normal,171.0,0,0.9,upsloping,0.0,normal,0
+44.0,male,non-anginal,120.0,226.0,0,normal,169.0,0,0.0,upsloping,0.0,normal,0
+61.0,male,asymptomatic,138.0,166.0,0,left vent hypertrophy,125.0,1,3.6,flat,1.0,normal,1
+42.0,male,asymptomatic,136.0,315.0,0,normal,125.0,1,1.8,flat,0.0,fixed defect,1
+52.0,male,asymptomatic,128.0,204.0,1,normal,156.0,1,1.0,flat,0.0,,1
+59.0,male,non-anginal,126.0,218.0,1,normal,134.0,0,2.2,flat,1.0,fixed defect,1
+40.0,male,asymptomatic,152.0,223.0,0,normal,181.0,0,0.0,upsloping,0.0,reversable defect,1
+42.0,male,non-anginal,130.0,180.0,0,normal,150.0,0,0.0,upsloping,0.0,normal,0
+61.0,male,asymptomatic,140.0,207.0,0,left vent hypertrophy,138.0,1,1.9,upsloping,1.0,reversable defect,1
+66.0,male,asymptomatic,160.0,228.0,0,left vent hypertrophy,138.0,0,2.3,upsloping,0.0,fixed defect,0
+46.0,male,asymptomatic,140.0,311.0,0,normal,120.0,1,1.8,flat,2.0,reversable defect,1
+71.0,female,asymptomatic,112.0,149.0,0,normal,125.0,0,1.6,flat,0.0,normal,0
+59.0,male,typical ang,134.0,204.0,0,normal,162.0,0,0.8,upsloping,2.0,normal,1
+64.0,male,typical ang,170.0,227.0,0,left vent hypertrophy,155.0,0,0.6,flat,0.0,reversable defect,0
+66.0,female,non-anginal,146.0,278.0,0,left vent hypertrophy,152.0,0,0.0,flat,1.0,normal,0
+39.0,female,non-anginal,138.0,220.0,0,normal,152.0,0,0.0,flat,0.0,normal,0
+57.0,male,atypical ang,154.0,232.0,0,left vent hypertrophy,164.0,0,0.0,upsloping,1.0,normal,1
+58.0,female,asymptomatic,130.0,197.0,0,normal,131.0,0,0.6,flat,0.0,normal,0
+57.0,male,asymptomatic,110.0,335.0,0,normal,143.0,1,3.0,flat,1.0,reversable defect,1
+47.0,male,non-anginal,130.0,253.0,0,normal,179.0,0,0.0,upsloping,0.0,normal,0
+55.0,female,asymptomatic,128.0,205.0,0,ST-T abnormal,130.0,1,2.0,flat,1.0,reversable defect,1
+35.0,male,atypical ang,122.0,192.0,0,normal,174.0,0,0.0,upsloping,0.0,normal,0
+61.0,male,asymptomatic,148.0,203.0,0,normal,161.0,0,0.0,upsloping,1.0,reversable defect,1
+58.0,male,asymptomatic,114.0,318.0,0,ST-T abnormal,140.0,0,4.4,downsloping,3.0,fixed defect,1
+58.0,female,asymptomatic,170.0,225.0,1,left vent hypertrophy,146.0,1,2.8,flat,2.0,fixed defect,1
+58.0,male,atypical ang,125.0,220.0,0,normal,144.0,0,0.4,flat,,reversable defect,0
+56.0,male,atypical ang,130.0,221.0,0,left vent hypertrophy,163.0,0,0.0,upsloping,0.0,reversable defect,0
+56.0,male,atypical ang,120.0,240.0,0,normal,169.0,0,0.0,downsloping,0.0,normal,0
+67.0,male,non-anginal,152.0,212.0,0,left vent hypertrophy,150.0,0,0.8,flat,0.0,reversable defect,1
+55.0,female,atypical ang,132.0,342.0,0,normal,166.0,0,1.2,upsloping,0.0,normal,0
+44.0,male,asymptomatic,120.0,169.0,0,normal,144.0,1,2.8,downsloping,0.0,fixed defect,1
+63.0,male,asymptomatic,140.0,187.0,0,left vent hypertrophy,144.0,1,4.0,upsloping,2.0,reversable defect,1
+63.0,female,asymptomatic,124.0,197.0,0,normal,136.0,1,0.0,flat,0.0,normal,1
+41.0,male,atypical ang,120.0,157.0,0,normal,182.0,0,0.0,upsloping,0.0,normal,0
+59.0,male,asymptomatic,164.0,176.0,1,left vent hypertrophy,90.0,0,1.0,flat,2.0,fixed defect,1
+57.0,female,asymptomatic,140.0,241.0,0,normal,123.0,1,0.2,flat,0.0,reversable defect,1
+45.0,male,typical ang,110.0,264.0,0,normal,132.0,0,1.2,flat,0.0,reversable defect,1
+68.0,male,asymptomatic,144.0,193.0,1,normal,141.0,0,3.4,flat,2.0,reversable defect,1
+57.0,male,asymptomatic,130.0,131.0,0,normal,115.0,1,1.2,flat,1.0,reversable defect,1
+57.0,female,atypical ang,130.0,236.0,0,left vent hypertrophy,174.0,0,0.0,flat,1.0,normal,1
+38.0,male,non-anginal,138.0,175.0,0,normal,173.0,0,0.0,upsloping,,normal,0
